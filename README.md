@@ -1,6 +1,6 @@
 # AutoComPose (ICCV 2025)
 
-[ [arXiv](https://arxiv.org/abs/2503.22884) ]
+[ [arXiv](https://arxiv.org/abs/2503.22884) [Datasets](https://drive.google.com/file/d/17JSqRM2POCVWo-I0gIrFZgaYMvrsSCXP/view?usp=drive_link) [Pretrained Models](https://drive.google.com/file/d/1T6usGPz54UY3L8H5uMyXZws46VkPjgWZ/view?usp=drive_link)]
 
 ![AutoComPose_Overview](figures/autocompose_v4.jpg)
 
@@ -20,10 +20,6 @@ conda install -y -c pytorch pytorch=1.11.0 torchvision=0.12.0
 conda install -y -c anaconda pandas=1.4.2
 pip install git+https://github.com/openai/CLIP.git
 ```
-
-### Dataset and Models
-
-The dataset and pretrained models used in this project will be released soon.
 
 ### Dataset Sources
 
@@ -110,10 +106,11 @@ More examples can be found inside `run.sh`. You can modify or directly copy thes
 
 If you use this code for your research, please cite our papers.
 ```
-@article{shen2025autocompose,
+@inproceedings{shen2025autocompose,
   title={AutoComPose: Automatic Generation of Pose Transition Descriptions for Composed Pose Retrieval Using Multimodal LLMs},
   author={Shen, Yi-Ting and Eum, Sungmin and Lee, Doheon and Shete, Rohit and Wang, Chiao-Yi and Kwon, Heesung and Bhattacharyya, Shuvra S},
-  journal={arXiv preprint arXiv:2503.22884},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={7409--7418},
   year={2025}
 }
 ```
