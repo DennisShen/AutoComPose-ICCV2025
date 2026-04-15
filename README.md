@@ -1,6 +1,6 @@
 # AutoComPose (ICCV 2025)
 
-[ [arXiv](https://arxiv.org/abs/2503.22884) | [Datasets](https://drive.google.com/file/d/17JSqRM2POCVWo-I0gIrFZgaYMvrsSCXP/view?usp=drive_link) | [Pretrained Models](https://drive.google.com/file/d/1T6usGPz54UY3L8H5uMyXZws46VkPjgWZ/view?usp=drive_link) ]
+[ [arXiv](https://arxiv.org/abs/2503.22884) | [paper](https://openaccess.thecvf.com/content/ICCV2025/html/Shen_AutoComPose_Automatic_Generation_of_Pose_Transition_Descriptions_for_Composed_Pose_ICCV_2025_paper.html) | [Datasets](https://drive.google.com/file/d/17JSqRM2POCVWo-I0gIrFZgaYMvrsSCXP/view?usp=drive_link) | [Pretrained Models](https://drive.google.com/file/d/1T6usGPz54UY3L8H5uMyXZws46VkPjgWZ/view?usp=drive_link) ]
 
 ![AutoComPose_Overview](figures/autocompose_v4.jpg)
 
